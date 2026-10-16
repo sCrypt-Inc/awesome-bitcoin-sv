@@ -152,6 +152,7 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Relica](https://relica.world/) - Post photos. Make money. Maintain ownership.
 - [BitSurf](https://www.bitsurf.network/) - Alternative application to browse Twetch posts.
 - [WeiBlock](https://weiblock.app/) - Social media application based in China.
+- [Moralo](https://moralodating.com) - Dating with one conversation at a time; Premium paid in BSV through HandCash or any BSV wallet.
 
 ## Storage
 
